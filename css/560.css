@@ -1,0 +1,128 @@
+.week .weeks1,.week .weeks2{
+	width:100%;
+
+}
+
+
+.week .weeks1{
+	height:90px;
+}
+.week2 .weeks1{
+	height:90px;
+}
+
+
+.week .weeks2 .weeks2_son p{
+	width:100%;
+}
+.week2 .weeks2 .weeks2_son p{
+	width:100%;
+}
+
+
+
+
+
+
+.week2 .weeks1,.week2 .weeks2{
+	width:100%;
+}
+
+
+.business .business_left{
+	width:100%;
+	height:100px;
+}
+.business .business_right{
+	width:100%;
+}
+.business .business_right .cloud{
+	width:100%;
+}
+
+
+.business2 .business_left{
+	width:100%;
+	height:100px;
+}
+.business2 .business_right{
+	width:100%;
+}
+.business2 .business_right .cloud{
+	width:100%;
+}
+
+.business_right .business_rights1{
+	height:120px;
+}
+
+
+
+.business2 .business_right .business_rights1{
+	height:130px;
+}
+
+
+
+.footer .footer_top dl{
+	width:100%;
+}
+.footer_bottom .link{
+	width:100%;
+}
+
+.footer_bottom .link a{
+	display: block;
+	line-height: 36px;
+	width:100%;
+}
+
+.follow{
+	width:100%;
+}
+
+
+
+.Select{
+	width:100%;
+}
+.inps{
+	width:95%;
+}
+
+
+
+.black_hid{
+	display:block;
+}
+#banner .posi h1{
+	width:90%;
+	font-size: 35px;
+}
+#banner .posi div{
+	width:100%;
+}
+#banner .posi div a:nth-child(2){
+	margin-left: 0;
+	margin-top: 20px;
+	display: block;
+	width:90%;
+}
+#banner .posi div a:nth-child(1){
+	
+	display: block;
+	width:90%;
+}
+#banner{
+	background: black;
+}
+
+
+.dogs{
+	background: black;
+	color:#fff;
+}
+
+.dogs .dogs_son{
+	width:95%;
+}

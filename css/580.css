@@ -1,0 +1,18 @@
+.header .search input{
+	width:50px;
+}
+.header .search input::placeholder{
+	color:transparent;
+}
+.header .search{
+	width:50px;
+	border-left:0px;
+}
+
+
+.header .market{
+	display: none;
+}
+
+
+
