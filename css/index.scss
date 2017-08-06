@@ -37,7 +37,16 @@ ul{
 			float:left;
 			line-height:50px;
 			margin-left:26px;
+			height: 50px;
+			overflow: hidden;
 			
+			&:hover{
+				
+				.h_bor{
+					transform:translateY(-5px);
+					transition-duration: 0.5s;
+				}
+			}
 			a{
 				color:#323232;
 				display: inline-block;
@@ -50,6 +59,11 @@ ul{
 				height:50px;
 				vertical-align: top;
 				margin-left:7px;
+			}
+			.h_bor{
+				width:100%;
+				height:5px;
+				background:#4178cc;
 			}
 		}
 	}
@@ -413,14 +427,14 @@ ul{
 				font-size:30px;
 				display: inline-block;
 				background:#3b6caa;
-				height:25px;
-				width:25px;
+				height:28px;
+				width:28px;
 				border-radius:50%;
 				color:#fff;
 				// text-align: center;
 				line-height: 30px;
 				vertical-align: top;
-
+				
 
 			}
 			.font{
@@ -541,7 +555,7 @@ ul{
 	box-sizing:border-box;
 	background:#777677;
 	
-	
+	padding-top:39px;
 	.business_rights1:first-child{
 		margin-bottom:15px;
 	}
@@ -582,7 +596,7 @@ ul{
 				float:left;
 				color:#fff;
 				box-sizing:border-box;
-				padding:0 10px;
+				padding:0 20px;
 				img{
 					height:40px;
 					width:40px;
